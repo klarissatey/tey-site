@@ -14,7 +14,7 @@ export default function App() {
           <a href="https://github.com/klarissatey" target="_blank" rel="noreferrer" className="text-gray-900 hover:text-gray-500 transition-colors">
             GitHub
           </a>
-          <a href="mailto:klarissa.tey@gmail.com" className="text-gray-900 hover:text-gray-500 transition-colors">
+          <a href="mailto:klarissatey@utexas.edu" className="text-gray-900 hover:text-gray-500 transition-colors">
             Email
           </a>
         </div>
